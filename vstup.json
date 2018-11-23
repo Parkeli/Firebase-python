@@ -1,0 +1,34 @@
+{
+"id":1,
+"free":{
+  "monday":1,
+  "tuesday":2,
+  "wednesday":3,
+  "thursday":4,
+  "friday":5,
+  "saturday":6,
+  "sunday":7,
+  "now":666
+  },
+"total":200,
+"name":"OC Nisa",
+"address":"OC Nisa, Liberec",
+"gps":[150.999, 180.8553],
+"opening_time":{
+  "monday":"11:00-15:00",
+  "tuesday":"22:00-24:00",
+  "wednesday":".",
+  "thursday":".",
+  "friday":".",
+  "saturday":".",
+  "sunday":".",
+  "now":"open"
+  },
+"services":{
+  "lpg":"True",
+  "electro":"False",
+  "paid":"True",
+  "paycard":"True",
+  "security":"False"
+  }
+}
